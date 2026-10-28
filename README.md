@@ -17,3 +17,9 @@ An exploratory data analysis (EDA) project analyzing 10,000 bank customer record
 2. Install dependencies:
    ```bash
    pip install pandas numpy matplotlib seaborn
+    ```
+   
+### 📊 Visualizations
+![Churn Count](churn_count.png)
+![Age vs Churn](age_vs_churn.png)
+![Geography Churn](geography_churn.png)
