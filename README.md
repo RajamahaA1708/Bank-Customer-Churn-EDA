@@ -20,6 +20,6 @@ An exploratory data analysis (EDA) project analyzing 10,000 bank customer record
     ```
    
 ### 📊 Visualizations
-![Churn Count](churn_count.png)
-![Age vs Churn](age_vs_churn.png)
-![Geography Churn](geography_churn.png)
+![churn count graph](churn_count_graph.png)
+![age vs churn](age_vs_churn.png)
+![country wise churn](country_wise_churn.png)
